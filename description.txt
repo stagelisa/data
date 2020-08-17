@@ -1,0 +1,9 @@
+-1ere: data en translatant selon la direction de l'axe y global en alignant l'axe x local d'IMU suivant cette direction
+
+-2eme: data en translatant selon la direction de l'axe y global en alignant l'axe y local d'IMU suivant cette direction
+
+-2bis: data en translatant selon la direction de l'axe x global en alignant l'axe z local d'IMU suivant cette direction
+
+-3eme: data en translatant et rotant selon la direction de l'axe y global en fixant l'axe z local d'IMU suivant l'axe x global
+
+-4eme: data en translatant selon la y = f(x) = x dans le repere global en fixant l'axe z local d'IMU suivant l'axe x global
